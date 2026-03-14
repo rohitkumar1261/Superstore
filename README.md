@@ -18,4 +18,8 @@ The primary goal is to demonstrate data analysis, business intelligence, and vis
 - Business Intelligence workflows for structured insights
 - Superstore Dataset as the real‑world data source
 
+## Outcome
+Delivered an interactive Superstore Sales Dashboard in Power BI that highlights sales, profit, and customer insights. The project demonstrates skills in data cleaning, modeling, visualization, and BI storytelling, supporting data‑driven decision making.
+
+
 
