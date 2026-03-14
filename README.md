@@ -5,11 +5,11 @@ This project showcases an interactive Sales Analysis Dashboard built in Power BI
 The primary goal is to demonstrate data analysis, business intelligence, and visualization skills by transforming raw data into actionable insights for decision-making.
 
 ## Features
-1) Sales analysis by category and sub‑category
-2) Year‑over‑year profit and sales trends
-3) Customer segment and payment mode distribution
-4) Regional sales analysis with map visualization
-5) Shipping mode performance insights
+- Sales analysis by category and sub‑category
+- Year‑over‑year profit and sales trends
+- Customer segment and payment mode distribution
+- Regional sales analysis with map visualization
+- Shipping mode performance insights
 
 
 ## Tools & Technologies
